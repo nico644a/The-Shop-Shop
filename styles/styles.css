@@ -1,0 +1,9 @@
+.container .row header {
+  background-image: url(.../img/Header-image.png);
+}
+
+.container .row nav {
+  -webkit-box-shadow: 1px 1px 1px solid black;
+          box-shadow: 1px 1px 1px solid black;
+}
+/*# sourceMappingURL=styles.css.map */
